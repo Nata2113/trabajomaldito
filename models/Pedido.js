@@ -1,3 +1,4 @@
+//Coleccion de Producto
 const mongoose = require('mongoose');
 
 const pedidoSchema = new mongoose.Schema({

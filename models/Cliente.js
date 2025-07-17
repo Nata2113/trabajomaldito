@@ -1,3 +1,4 @@
+//Coleccion de Cliente
 const mongoose = require('mongoose');
 
 const clienteSchema = new mongoose.Schema({
